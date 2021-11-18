@@ -1,0 +1,16 @@
+E:\Универ\3 course\TP\L3\L3\bin\Debug\net5.0\L3.exe
+E:\Универ\3 course\TP\L3\L3\bin\Debug\net5.0\L3.deps.json
+E:\Универ\3 course\TP\L3\L3\bin\Debug\net5.0\L3.runtimeconfig.json
+E:\Универ\3 course\TP\L3\L3\bin\Debug\net5.0\L3.runtimeconfig.dev.json
+E:\Универ\3 course\TP\L3\L3\bin\Debug\net5.0\L3.dll
+E:\Универ\3 course\TP\L3\L3\bin\Debug\net5.0\ref\L3.dll
+E:\Универ\3 course\TP\L3\L3\bin\Debug\net5.0\L3.pdb
+E:\Универ\3 course\TP\L3\L3\obj\Debug\net5.0\L3.csproj.AssemblyReference.cache
+E:\Универ\3 course\TP\L3\L3\obj\Debug\net5.0\L3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Универ\3 course\TP\L3\L3\obj\Debug\net5.0\L3.AssemblyInfoInputs.cache
+E:\Универ\3 course\TP\L3\L3\obj\Debug\net5.0\L3.AssemblyInfo.cs
+E:\Универ\3 course\TP\L3\L3\obj\Debug\net5.0\L3.csproj.CoreCompileInputs.cache
+E:\Универ\3 course\TP\L3\L3\obj\Debug\net5.0\L3.dll
+E:\Универ\3 course\TP\L3\L3\obj\Debug\net5.0\ref\L3.dll
+E:\Универ\3 course\TP\L3\L3\obj\Debug\net5.0\L3.pdb
+E:\Универ\3 course\TP\L3\L3\obj\Debug\net5.0\L3.genruntimeconfig.cache

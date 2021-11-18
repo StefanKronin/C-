@@ -1,0 +1,16 @@
+E:\Универ\3 course\TP\L2\bin\Debug\net5.0\L2.exe
+E:\Универ\3 course\TP\L2\bin\Debug\net5.0\L2.deps.json
+E:\Универ\3 course\TP\L2\bin\Debug\net5.0\L2.runtimeconfig.json
+E:\Универ\3 course\TP\L2\bin\Debug\net5.0\L2.runtimeconfig.dev.json
+E:\Универ\3 course\TP\L2\bin\Debug\net5.0\L2.dll
+E:\Универ\3 course\TP\L2\bin\Debug\net5.0\ref\L2.dll
+E:\Универ\3 course\TP\L2\bin\Debug\net5.0\L2.pdb
+E:\Универ\3 course\TP\L2\obj\Debug\net5.0\L2.csproj.AssemblyReference.cache
+E:\Универ\3 course\TP\L2\obj\Debug\net5.0\L2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Универ\3 course\TP\L2\obj\Debug\net5.0\L2.AssemblyInfoInputs.cache
+E:\Универ\3 course\TP\L2\obj\Debug\net5.0\L2.AssemblyInfo.cs
+E:\Универ\3 course\TP\L2\obj\Debug\net5.0\L2.csproj.CoreCompileInputs.cache
+E:\Универ\3 course\TP\L2\obj\Debug\net5.0\L2.dll
+E:\Универ\3 course\TP\L2\obj\Debug\net5.0\ref\L2.dll
+E:\Универ\3 course\TP\L2\obj\Debug\net5.0\L2.pdb
+E:\Универ\3 course\TP\L2\obj\Debug\net5.0\L2.genruntimeconfig.cache

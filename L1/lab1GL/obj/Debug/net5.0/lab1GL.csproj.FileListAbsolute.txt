@@ -1,0 +1,16 @@
+E:\Универ\3 course\TP\L1\lab1GL\bin\Debug\net5.0\lab1GL.exe
+E:\Универ\3 course\TP\L1\lab1GL\bin\Debug\net5.0\lab1GL.deps.json
+E:\Универ\3 course\TP\L1\lab1GL\bin\Debug\net5.0\lab1GL.runtimeconfig.json
+E:\Универ\3 course\TP\L1\lab1GL\bin\Debug\net5.0\lab1GL.runtimeconfig.dev.json
+E:\Универ\3 course\TP\L1\lab1GL\bin\Debug\net5.0\lab1GL.dll
+E:\Универ\3 course\TP\L1\lab1GL\bin\Debug\net5.0\ref\lab1GL.dll
+E:\Универ\3 course\TP\L1\lab1GL\bin\Debug\net5.0\lab1GL.pdb
+E:\Универ\3 course\TP\L1\lab1GL\obj\Debug\net5.0\lab1GL.csproj.AssemblyReference.cache
+E:\Универ\3 course\TP\L1\lab1GL\obj\Debug\net5.0\lab1GL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Универ\3 course\TP\L1\lab1GL\obj\Debug\net5.0\lab1GL.AssemblyInfoInputs.cache
+E:\Универ\3 course\TP\L1\lab1GL\obj\Debug\net5.0\lab1GL.AssemblyInfo.cs
+E:\Универ\3 course\TP\L1\lab1GL\obj\Debug\net5.0\lab1GL.csproj.CoreCompileInputs.cache
+E:\Универ\3 course\TP\L1\lab1GL\obj\Debug\net5.0\lab1GL.dll
+E:\Универ\3 course\TP\L1\lab1GL\obj\Debug\net5.0\ref\lab1GL.dll
+E:\Универ\3 course\TP\L1\lab1GL\obj\Debug\net5.0\lab1GL.pdb
+E:\Универ\3 course\TP\L1\lab1GL\obj\Debug\net5.0\lab1GL.genruntimeconfig.cache
